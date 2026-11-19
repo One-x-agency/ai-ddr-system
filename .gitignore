@@ -20,3 +20,8 @@ Thumbs.db
 # Output files
 data/images/
 data/output/
+# Added by Auto-Setup
+node_modules/
+dist/
+build/
+
